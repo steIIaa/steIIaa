@@ -1,4 +1,4 @@
 - 🔭 currently working on a VR game called "_growit_".
-- 🌱 currently learning HTML and sound design.
+- 🌱 currently learning c# and sound design.
 - 💬 ask me about python
 - 📫 how to reach me: @`alfiee.dc` on discord or @ https://steIIaa.github.io
