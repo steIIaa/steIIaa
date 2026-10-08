@@ -1,4 +1,4 @@
 - 🔭 currently working on different trial games.
-- 🌱 currently learning c# and sound design.
+- 🌱 currently learning gdscript and sound design.
 - 💬 ask me about python
 - 📫 how to reach me: @`stellar.dc` on discord or @ https://ultravioletstudios.lol
